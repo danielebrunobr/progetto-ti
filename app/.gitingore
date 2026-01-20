@@ -1,0 +1,16 @@
+# Dipendenze (troppo pesanti per GitHub)
+node_modules/
+
+# Build di Next.js (file temporanei generati automaticamente)
+.next/
+out/
+build/
+
+# File di ambiente (dove metteresti le password del database)
+.env
+.env.local
+.env*.local
+
+# File di sistema
+.DS_Store
+Thumbs.db
